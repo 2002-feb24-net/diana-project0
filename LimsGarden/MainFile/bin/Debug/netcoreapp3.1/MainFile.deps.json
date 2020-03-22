@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MainFile/1.0.0": {
+        "dependencies": {
+          "FruitLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MainFile.dll": {}
+        }
+      },
+      "FruitLibrary/1.0.0": {
+        "runtime": {
+          "FruitLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FruitLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

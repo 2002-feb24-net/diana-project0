@@ -1,0 +1,13 @@
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/bin/Debug/netcoreapp3.1/MainFile.deps.json
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/bin/Debug/netcoreapp3.1/MainFile.runtimeconfig.json
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/bin/Debug/netcoreapp3.1/MainFile.runtimeconfig.dev.json
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/bin/Debug/netcoreapp3.1/MainFile.dll
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/bin/Debug/netcoreapp3.1/MainFile.pdb
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/bin/Debug/netcoreapp3.1/FruitLibrary.dll
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/bin/Debug/netcoreapp3.1/FruitLibrary.pdb
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/obj/Debug/netcoreapp3.1/MainFile.csprojAssemblyReference.cache
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/obj/Debug/netcoreapp3.1/MainFile.AssemblyInfoInputs.cache
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/obj/Debug/netcoreapp3.1/MainFile.AssemblyInfo.cs
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/obj/Debug/netcoreapp3.1/MainFile.csproj.CopyComplete
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/obj/Debug/netcoreapp3.1/MainFile.dll
+/Users/dianalim/revature/diana-code/LimsGarden/MainFile/obj/Debug/netcoreapp3.1/MainFile.pdb
