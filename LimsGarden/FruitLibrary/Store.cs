@@ -42,6 +42,10 @@ namespace FruitLibrary
             
             else if(category == "v")
             {
+                var ifVegetable = new Vegetable();
+                ifVegetable.VegetableOptions();
+
+                /* 
                 Console.Clear();
                 Console.WriteLine("What kind of vegetable would you like to buy?");
                 Console.WriteLine();
@@ -84,6 +88,7 @@ namespace FruitLibrary
                     Console.WriteLine("Error: Please check item name spelling, and try again.");
                     // Create a way to return to beginning of fruit prompt
                 }
+                */
 
             }
 

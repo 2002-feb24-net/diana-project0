@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dianalim/revature/diana-code/LimsGarden/MainFile/MainFile.csproj",
+      "projectUniqueName": "/Users/dianalim/revature/diana-project0/LimsGarden/MainFile/MainFile.csproj",
       "projectName": "MainFile",
-      "projectPath": "/Users/dianalim/revature/diana-code/LimsGarden/MainFile/MainFile.csproj",
+      "projectPath": "/Users/dianalim/revature/diana-project0/LimsGarden/MainFile/MainFile.csproj",
       "packagesPath": "/Users/dianalim/.nuget/packages/",
-      "outputPath": "/Users/dianalim/revature/diana-code/LimsGarden/MainFile/obj/",
+      "outputPath": "/Users/dianalim/revature/diana-project0/LimsGarden/MainFile/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dianalim/.nuget/NuGet/NuGet.Config"
@@ -50,8 +50,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/dianalim/revature/diana-code/LimsGarden/FruitLibrary/FruitLibrary.csproj": {
-              "projectPath": "/Users/dianalim/revature/diana-code/LimsGarden/FruitLibrary/FruitLibrary.csproj"
+            "/Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/FruitLibrary.csproj": {
+              "projectPath": "/Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/FruitLibrary.csproj"
             }
           }
         }

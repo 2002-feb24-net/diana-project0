@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dianalim/revature/diana-code/LimsGarden/FruitLibrary/FruitLibrary.csproj",
+      "projectUniqueName": "/Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/FruitLibrary.csproj",
       "projectName": "FruitLibrary",
-      "projectPath": "/Users/dianalim/revature/diana-code/LimsGarden/FruitLibrary/FruitLibrary.csproj",
+      "projectPath": "/Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/FruitLibrary.csproj",
       "packagesPath": "/Users/dianalim/.nuget/packages/",
-      "outputPath": "/Users/dianalim/revature/diana-code/LimsGarden/FruitLibrary/obj/",
+      "outputPath": "/Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dianalim/.nuget/NuGet/NuGet.Config"
