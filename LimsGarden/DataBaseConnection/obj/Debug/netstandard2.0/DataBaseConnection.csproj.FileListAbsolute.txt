@@ -1,0 +1,8 @@
+/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/bin/Debug/netstandard2.0/DataBaseConnection.deps.json
+/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/bin/Debug/netstandard2.0/DataBaseConnection.dll
+/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/bin/Debug/netstandard2.0/DataBaseConnection.pdb
+/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/obj/Debug/netstandard2.0/DataBaseConnection.csprojAssemblyReference.cache
+/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/obj/Debug/netstandard2.0/DataBaseConnection.AssemblyInfoInputs.cache
+/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/obj/Debug/netstandard2.0/DataBaseConnection.AssemblyInfo.cs
+/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/obj/Debug/netstandard2.0/DataBaseConnection.dll
+/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/obj/Debug/netstandard2.0/DataBaseConnection.pdb

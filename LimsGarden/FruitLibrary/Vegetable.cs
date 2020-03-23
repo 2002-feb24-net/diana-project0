@@ -7,7 +7,7 @@ namespace FruitLibrary
        
         public void VegetableOptions()
         {
-            Console.Clear();
+                Console.Clear();
                 Console.WriteLine("What kind of vegetable would you like to buy?");
                 Console.WriteLine();
                 Console.WriteLine("Cucumber");
