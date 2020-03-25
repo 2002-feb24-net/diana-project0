@@ -29,6 +29,7 @@ namespace MainFile
             var buyer = new NewCust();
             buyer.CustomerName();
             buyer.Thankyou();
+            buyer.Options();
 
         }
     }
