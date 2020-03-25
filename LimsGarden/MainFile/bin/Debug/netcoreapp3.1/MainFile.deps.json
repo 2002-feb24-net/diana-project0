@@ -858,6 +858,9 @@
         }
       },
       "FruitLibrary/1.0.0": {
+        "dependencies": {
+          "DataBaseConnection": "1.0.0"
+        },
         "runtime": {
           "FruitLibrary.dll": {}
         }

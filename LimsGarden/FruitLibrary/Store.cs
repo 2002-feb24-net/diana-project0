@@ -44,101 +44,14 @@ namespace FruitLibrary
             {
                 var ifVegetable = new Vegetable();
                 ifVegetable.VegetableOptions();
-
-                /* 
-                Console.Clear();
-                Console.WriteLine("What kind of vegetable would you like to buy?");
-                Console.WriteLine();
-                Console.WriteLine("Cucumber");
-                Console.WriteLine("Asparagus");
-                Console.WriteLine("Carrot");
-                Console.WriteLine("Bell Pepper");
-                string fruitChoice = Console.ReadLine();
-                if(fruitChoice == "Cucumber")
-                {
-                    Console.Clear();
-                    Console.WriteLine("How many would you like?");
-                    string amount = Console.ReadLine();
-                    Console.WriteLine("Great! Your total is: ");
-                }
-                else if(fruitChoice == "Asparagus")
-                {
-                    Console.Clear();
-                    Console.WriteLine("How many would you like?");
-                    string amount = Console.ReadLine();
-                    Console.WriteLine("Great! Your total is: ");
-                }
-                else if(fruitChoice == "Carrot")
-                {
-                    Console.Clear();
-                    Console.WriteLine("How many would you like?");
-                    string amount = Console.ReadLine();
-                    Console.WriteLine("Great! Your total is: ");
-                }
-                else if(fruitChoice == "Bell Pepper")
-                {
-                    Console.Clear();
-                    Console.WriteLine("How many would you like?");
-                    string amount = Console.ReadLine();
-                    Console.WriteLine("Great! Your total is: ");
-                }
-                else 
-                {
-                    Console.Clear();
-                    Console.WriteLine("Error: Please check item name spelling, and try again.");
-                    // Create a way to return to beginning of fruit prompt
-                }
-                */
-
             }
 
 // Plant Buying Options
             
             else if(category == "p")
             {
-                Console.Clear();
-                Console.WriteLine("What kind of plant would you like to buy?");
-                Console.WriteLine();
-                Console.WriteLine("Loquat Tree");
-                Console.WriteLine("Nectarine Tree");
-                Console.WriteLine("Lemon Tree");
-                Console.WriteLine("Rose Bush");
-                string fruitChoice = Console.ReadLine();
-                if(fruitChoice == "Loquat Tree")
-                {
-                    Console.Clear();
-                    Console.WriteLine("How many would you like?");
-                    string amount = Console.ReadLine();
-                    Console.WriteLine("Great! Your total is: ");
-                }
-                else if(fruitChoice == "Nectarine Tree")
-                {
-                    Console.Clear();
-                    Console.WriteLine("How many would you like?");
-                    string amount = Console.ReadLine();
-                    Console.WriteLine("Great! Your total is: ");
-                }
-                else if(fruitChoice == "Lemon Tree")
-                {
-                    Console.Clear();
-                    Console.WriteLine("How many would you like?");
-                    string amount = Console.ReadLine();
-                    Console.WriteLine("Great! Your total is: ");
-                }
-                else if(fruitChoice == "Rose Bush")
-                {
-                    Console.Clear();
-                    Console.WriteLine("How many would you like?");
-                    string amount = Console.ReadLine();
-                    Console.WriteLine("Great! Your total is: ");
-                }
-                else 
-                {
-                    Console.Clear();
-                    Console.WriteLine("Error: Please check item name spelling, and try again.");
-                    // Create a way to return to beginning of fruit prompt
-                }
-
+                var ifPlant = new Tree();
+                ifPlant.TreeOptions();
             }
              else
             {

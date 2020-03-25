@@ -32,6 +32,7 @@ namespace DataBaseConnection.Model
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+         // modelBuilder.Entity<Customer>().ToTable("Customer");
             modelBuilder.Entity<Customer>(entity =>
             {
                 entity.Property(e => e.CustomerId)

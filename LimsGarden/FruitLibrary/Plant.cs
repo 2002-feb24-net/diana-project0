@@ -4,11 +4,11 @@ namespace FruitLibrary
 {
     public abstract class Plant  
     {
-        public virtual string name { get; set; }
-        public virtual int price { get; set; }
-        public virtual int count { get; set;}
+        public virtual string plant_name { get; set; }
+        public virtual int inventoryCount { get; set; }
+        public virtual int cost { get; set;}
 
-        public virtual bool ToBuy()
+      /*   public virtual bool ToBuy()
         {
             Console.WriteLine($"Would you like to purchase this {this.name} ? y/n");
             var response = Console.ReadLine();
@@ -21,7 +21,8 @@ namespace FruitLibrary
                 Console.WriteLine("Okay. Thank you. Bye!");
             }
             return false;
-        }
+            
+        }*/
 
     }
 }

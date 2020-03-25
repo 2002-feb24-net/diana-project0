@@ -87,7 +87,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/DataBaseConnection.csproj": {
+                "projectPath": "/Users/dianalim/revature/diana-project0/LimsGarden/DataBaseConnection/DataBaseConnection.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

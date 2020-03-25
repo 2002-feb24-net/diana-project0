@@ -14,3 +14,6 @@
 /Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/obj/Debug/netstandard2.0/FruitLibrary.AssemblyInfo.cs
 /Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/obj/Debug/netstandard2.0/FruitLibrary.dll
 /Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/obj/Debug/netstandard2.0/FruitLibrary.pdb
+/Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/bin/Debug/netstandard2.0/DataBaseConnection.dll
+/Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/bin/Debug/netstandard2.0/DataBaseConnection.pdb
+/Users/dianalim/revature/diana-project0/LimsGarden/FruitLibrary/obj/Debug/netstandard2.0/FruitLibrary.csproj.CopyComplete

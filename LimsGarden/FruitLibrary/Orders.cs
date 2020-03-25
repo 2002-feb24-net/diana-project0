@@ -2,8 +2,11 @@ using System;
 
 namespace FruitLibrary 
 {
-    public class Order  
+    public class Orders  
     {
+        public int customer_id { get; set; }
+        public int location_id { get; set; }
+        public int order_total { get; set; }
         public void ViewOrderHistory()
         {
             

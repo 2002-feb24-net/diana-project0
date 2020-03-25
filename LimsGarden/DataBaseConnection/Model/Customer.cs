@@ -5,10 +5,10 @@ namespace DataBaseConnection.Model
 {
     public partial class Customer
     {
-        public Customer()
-        {
-            Orders = new HashSet<Orders>();
-        }
+        //public Customer()
+        //{
+        //    Orders = new HashSet<Orders>();
+        //}
 
         public int CustomerId { get; set; }
         public string FirstName { get; set; }

@@ -5,8 +5,15 @@ namespace FruitLibrary
 {
     public abstract class Location  
     {
-        public virtual string address { get; set; }
-        public virtual List<Plant> inventory { get; set;}
+        public virtual string branch_name { get; set; }
+        public virtual string street_address1 { get; set; }
+        public virtual string street_address2 { get; set; }
+        public virtual string city { get; set; }
+        public virtual string state_name { get; set; }
+        public int zipcode { get; set; }
+
+
+       // public virtual List<Plant> inventory { get; set;}
 
        // public virtual int Sold();
        // {
