@@ -66,6 +66,17 @@ namespace FruitLibrary
             Console.WriteLine();
             Console.WriteLine("Your order is complete!");
         }
+
+        public void Options()
+        {
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("To return to the main menu, press: M");
+            Console.WriteLine("To view your order history, press: O");
+            Console.WriteLine("To exit, press: X");
+            Console.ReadLine();
+        }
         
         
     }

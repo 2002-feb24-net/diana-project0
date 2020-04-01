@@ -2,7 +2,7 @@ using System;
 
 namespace FruitLibrary 
 {
-    public class Tree: Plant  
+    public class TreePlant: Plant  
     {
         public void TreeOptions()
         {
